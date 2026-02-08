@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "AcademicHomepage"
-description              : ""
+description              : "M.Eng. student at Tongji University, focusing Multimodal and Retrieval"
 repository               : "ShifaTang/ShifaTang.github.io.git"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "ShifaTang(唐时发)"
   avatar           : "images/headicon.jpg"
-  bio              : "M.Eng. student at Tongji University, focusing Multimodal and Retrieval"
+  bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
