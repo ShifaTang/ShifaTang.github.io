@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "AcademicHomepage"
+title                    : "ShifaTang AcademicHomepage"
 description              : "M.Eng. student at Tongji University, focusing Multimodal and Retrieval"
 repository               : "ShifaTang/ShifaTang.github.io.git"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "ShifaTang(唐时发)"
-  avatar           : "images/headicon.jpg"
+  avatar           : "images/tangshifa.jpg"
   bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
