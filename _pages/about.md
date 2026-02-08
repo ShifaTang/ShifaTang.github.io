@@ -18,14 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently pursuing my Master’s degree at the <a href="https://cs.tongji.edu.cn/index.htm">School of Computer Science, Tongji University</a>, under the supervision of Prof. <a href="https://admis-tongji.github.io/members/03wengen-li.html">Wengen Li</a>. In June 2022, I received my Bachelor’s degree from the School of Computer Science, <a href="https://www.csust.edu.cn/jtxy/index.htm">Changsha University of Science and Technology</a>, supervised by Prof. <a href="https://www.csust.edu.cn/jtxy/info/1342/19025.htm">Wenzheng Liu</a>.
 
-During my undergraduate studies, I received several honors, including the National Scholarship and First-Class Scholarships. I also won First Prize(rank 1) in the <a href="https://www.gitlink.org.cn/competitions/2024">7th CCF Open Source Innovation Competition</a> and published a CCF-recommended conference paper as the first author.
+During my undergraduate studies, I received several honors, including the National Scholarship and First-Class Scholarships. I also won First Prize(rank 1) in the <a href="https://www.gitlink.org.cn/competitions/2024">7th CCF Open Source Innovation Competition</a> and published some CCF-recommended conference papers as the first author.
 
 My research interests include <span style="color:#c0392b;">multimodal retrieval, large language models, and feature fusion</span>. If you share similar interests, feel free to contact me via email.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 Honored to recieve National Scholarship
+- *2025.09*: &nbsp;🎉🎉  Recommended for admission to the School of Computer Science, Tongji University
+- *2025.08*: &nbsp;🎉🎉 One paper on Salient Object Detection was accepted by PRCV 2025 
+- *2024.10*: &nbsp;🎉🎉 Awarded First Prize(rank 1) in the 7th CCF Open Source Innovation Competition!
 
 # 📝 Publications 
 
