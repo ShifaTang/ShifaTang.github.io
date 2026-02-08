@@ -37,13 +37,14 @@ My research interests include <span style="color:#c0392b;">multimodal retrieval,
 [Hierarchical Multimodal Feature Learning and 3D Convolution for Rail Defect Detection](https://link.springer.com/chapter/10.1007/978-981-95-5679-3_34)
 
 **Shifa Tang**, Jinlai Zhang, Shuimiao Yu, Xi Chen, Sheng Wu, Tiefang Zou, Qiqi Li, Lin Hu 
+
 Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
-Paper | Code
+
+<a href="https://link.springer.com/chapter/10.1007/978-981-95-5679-3_34">Paper</a> | Code
 - We introduce a novel framework, termed HM3DNet, which benefits defect detection performance by exploring both hierarchical cross-modal features and depth-enhanced volumetric fusion features. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
