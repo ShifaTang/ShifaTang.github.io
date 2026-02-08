@@ -36,9 +36,9 @@ My research interests include <span style="color:#c0392b;">multimodal retrieval,
 
 [Hierarchical Multimodal Feature Learning and 3D Convolution for Rail Defect Detection](https://link.springer.com/chapter/10.1007/978-981-95-5679-3_34)
 
-**Shifa Tang**, Jinlai Zhang, Shuimiao Yu, Xi Chen, Sheng Wu, Tiefang Zou, Qiqi Li, Lin Hu 
+**Shifa Tang**, Jinlai Zhang, Shuimiao Yu, Xi Chen etc.  
 
-Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+Chinese Conference on Pattern Recognition and Computer Vision (PRCV oral)
 
 <a href="https://link.springer.com/chapter/10.1007/978-981-95-5679-3_34">Paper</a> | Code
 - We introduce a novel framework, termed HM3DNet, which benefits defect detection performance by exploring both hierarchical cross-modal features and depth-enhanced volumetric fusion features. 
@@ -46,17 +46,36 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
 </div>
 
 
+
+
+# 🏆 Competitions 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ccf_open_source.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">s
+
+[基于Rust的文件内容读取库](https://www.gitlink.org.cn/competitions/track1_XPlaza_tool)
+
+唐时发, 何勇富, 李嘉杰, 易家骐, 余水苗 
+
+第七届CCF开源创新大赛
+
+Code | 报道
+- We introduce a novel framework, termed HM3DNet, which benefits defect detection performance by exploring both hierarchical cross-modal features and depth-enhanced volumetric fusion features. 
+</div>
+</div>
+
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* National Scholarship 
+- *2025.08* Outstanding Student Leader, Special Scholarship, Outstanding Student
+- *2024.12* National Inspirational Scholarship
+- *2024.12* First Prize(rank 1) in the 7th CCF Open Source Innovation Competition 
+- *2023.12* National Inspirational Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.06 - 2029.04*, Master, School of Computer Science, Tongji University. 
+- *2022.09 - 2026.06*, Undergraduate, School of Computer Science, Changsha University of Science and Technology. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
