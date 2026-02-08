@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am currently pursuing my Master’s degree at the <a href="https://cs.tongji.edu.cn/index.htm">School of Computer Science, Tongji University</a>, under the supervision of Prof. <a href="https://admis-tongji.github.io/members/03wengen-li.html">Wengen Li</a>. In June 2022, I received my Bachelor’s degree from the School of Computer Science, <a href="https://www.csust.edu.cn/jtxy/index.htm">Changsha University of Science and Technology</a>, supervised by Prof. <a href="https://www.csust.edu.cn/jtxy/info/1342/19025.htm">Wenzheng Liu</a>.
 
-During my undergraduate studies, I received several honors, including the National Scholarship and First-Class Scholarships. I also won First Prize in the 7th CCF Open Source Innovation Competition and published a CCF-recommended conference paper as the first author.
+During my undergraduate studies, I received several honors, including the National Scholarship and First-Class Scholarships. I also won First Prize(rank 1) in the <a href="https://www.gitlink.org.cn/competitions/2024">7th CCF Open Source Innovation Competition</a> and published a CCF-recommended conference paper as the first author.
 
 My research interests include <span style="color:#c0392b;">multimodal retrieval, large language models, and feature fusion</span>. If you share similar interests, feel free to contact me via email.
 
