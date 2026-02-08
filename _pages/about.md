@@ -24,22 +24,22 @@ My research interests include <span style="color:#c0392b;">multimodal retrieval,
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Honored to recieve National Scholarship
-- *2025.09*: &nbsp;🎉🎉  Recommended for admission to the School of Computer Science, Tongji University
-- *2025.08*: &nbsp;🎉🎉 One paper on Salient Object Detection was accepted by PRCV 2025 
+- *2025.10*: &nbsp;🎉🎉 Honored to recieve National Scholarship!
+- *2025.09*: &nbsp;🎉🎉  Recommended for admission to the School of Computer Science, Tongji University!
+- *2025.08*: &nbsp;🎉🎉 One paper on Salient Object Detection was accepted by PRCV 2025! 
 - *2024.10*: &nbsp;🎉🎉 Awarded First Prize(rank 1) in the 7th CCF Open Source Innovation Competition!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2025</div><img src='images/prcv2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Hierarchical Multimodal Feature Learning and 3D Convolution for Rail Defect Detection](https://link.springer.com/chapter/10.1007/978-981-95-5679-3_34)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Shifa Tang**, Jinlai Zhang, Shuimiao Yu, Xi Chen, Sheng Wu, Tiefang Zou, Qiqi Li, Lin Hu 
+Chinese Conference on Pattern Recognition and Computer Vision (PRCV)
+Paper | Code
+- We introduce a novel framework, termed HM3DNet, which benefits defect detection performance by exploring both hierarchical cross-modal features and depth-enhanced volumetric fusion features. 
 </div>
 </div>
 
