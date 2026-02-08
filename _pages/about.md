@@ -20,7 +20,7 @@ I am currently pursuing my Master’s degree at the <a href="https://cs.tongji.e
 
 During my undergraduate studies, I received several honors, including the National Scholarship and First-Class Scholarships. I also won First Prize in the 7th CCF Open Source Innovation Competition and published a CCF-recommended conference paper as the first author.
 
-My research interests include multimodal retrieval, large language models, and feature fusion. If you share similar interests, feel free to contact me via email.
+My research interests include <span style="color:#c0392b;">multimodal retrieval, large language models, and feature fusion</span>. If you share similar interests, feel free to contact me via email.
 
 
 # 🔥 News
