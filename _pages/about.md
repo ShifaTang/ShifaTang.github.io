@@ -51,7 +51,7 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV oral)
 # 🏆 Competitions 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ccf_open_source.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">s
+<div class='paper-box-text' markdown="1">
 
 [基于Rust的文件内容读取库](https://www.gitlink.org.cn/competitions/track1_XPlaza_tool)
 
