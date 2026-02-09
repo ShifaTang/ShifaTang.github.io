@@ -40,7 +40,7 @@ My research interests include <span style="color:#c0392b;">multimodal retrieval,
 
 Chinese Conference on Pattern Recognition and Computer Vision (PRCV oral)
 
-<a href="https://link.springer.com/chapter/10.1007/978-981-95-5679-3_34">Paper</a> | Code
+<a href="https://link.springer.com/chapter/10.1007/978-981-95-5679-3_34">Paper</a> | [Code](https://github.com/ShifaTang/HM3DNet)
 - We introduce a novel framework, termed HM3DNet, which benefits defect detection performance by exploring both hierarchical cross-modal features and depth-enhanced volumetric fusion features. 
 </div>
 </div>
