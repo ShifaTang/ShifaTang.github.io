@@ -55,7 +55,7 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV oral)
 
 [基于Rust的文件内容读取库](https://www.gitlink.org.cn/competitions/track1_XPlaza_tool)
 
-唐时发, 何勇富, 李嘉杰, 易家骐, 余水苗 
+**唐时发**, 何勇富, 李嘉杰, 易家骐, 余水苗 
 
 第七届CCF开源创新大赛国赛一等奖
 
@@ -64,6 +64,23 @@ Code | 报道
 - 受邀参加国家新一代自主安全计算系统产业集群融通生态大会，荣获一等奖
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/medical_fraud.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[医保欺诈识别监测模型研究及可视化](http://114.220.75.43:1021/hncxcy)
+
+**唐时发**, 万家乐, 余水苗, 秦召辉, 陈曦 
+
+湖南省大学生创新训练计划省级项目，顺利结项
+
+Code | 报道
+- 通过去除噪声数据、机器学习算法、特征提取等技术，构建医保欺诈识别监测模型，对用户行为、医疗记录、诊疗项目等多维度数据联合分析，有效挖掘出潜在的欺诈行为特征，精准高效识别医保欺诈行为
+- 开发可视化界面，动态展示欺诈监测模型预测值及相关数据指标，直观展示欺诈行为的检测结果，识别潜在的欺诈风险
+</div>
+</div>
+
 
 
 
