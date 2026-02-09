@@ -66,7 +66,7 @@ Code | 报道
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/medical_fraud.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/medical_fraud.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [医保欺诈识别监测模型研究及可视化](http://114.220.75.43:1021/hncxcy)
