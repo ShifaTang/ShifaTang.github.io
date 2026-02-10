@@ -75,7 +75,7 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV oral)
 
 湖南省大学生创新训练计划省级项目，顺利结项
 
-Code | 报道
+[Code](https://github.com/ShifaTang/Medical_Insurance_Fraud_Detection)
 - 通过去除噪声数据、机器学习算法、特征提取等技术，构建医保欺诈识别监测模型，对用户行为、医疗记录、诊疗项目等多维度数据联合分析，有效挖掘出潜在的欺诈行为特征，精准高效识别医保欺诈行为
 - 开发可视化界面，动态展示欺诈监测模型预测值及相关数据指标，直观展示欺诈行为的检测结果，识别潜在的欺诈风险
 </div>
