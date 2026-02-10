@@ -59,7 +59,7 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV oral)
 
 第七届CCF开源创新大赛国赛一等奖
 
-Code | 报道
+[Code](https://github.com/ShifaTang/FileContentReader) | [国链安可促进中心](https://mp.weixin.qq.com/s/wdM_33v1d0DNGSc-rbuqKw) | [长理IT先锋](https://mp.weixin.qq.com/s/AXsLbQTJVd5fqB_-vFm2Rw)
 - 使用Rust语言构建模块化、结构化的文件内容读取库，支持读取TXT、CSV、Markdown、PDF、Zip等多种文件格式，在Windows、麒麟操作系统、Linux等操作系统上运行，适配信创环境
 - 受邀参加国家新一代自主安全计算系统产业集群融通生态大会，荣获一等奖
 </div>
