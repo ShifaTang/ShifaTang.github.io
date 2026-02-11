@@ -83,7 +83,6 @@ Chinese Conference on Pattern Recognition and Computer Vision (PRCV oral)
 
 
 
-
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship 
 - *2025.08* Outstanding Student Leader, Special Scholarship, Outstanding Student
